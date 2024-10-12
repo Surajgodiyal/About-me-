@@ -1,0 +1,14 @@
+# static.yml
+
+# This configuration is for setting up static files in GitHub Pages.
+theme: minimal
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# You can customize the settings below.
+title: Suraj Godiyal's Portfolio
+description: A showcase of my work in Computer Applications and Early Childhood Education.
+author:
+  name: Suraj Godiyal
+  email: surajgodiyal91@gmail.com
